@@ -5,7 +5,9 @@
 💻 Tenho experiência em:
 
 Linguagens: JavaScript & C++
+
 Frameworks e bibliotecas: Node.js]
+
 Ferramentas: Git
 
 🌱 Estou sempre aprendendo e explorando novas tecnologias. Atualmente, estou me aprofundando em Analise e Desenvolvimento de Sistemas.
