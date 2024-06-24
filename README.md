@@ -6,7 +6,7 @@
 
 Linguagens: JavaScript & C++
 
-Frameworks e bibliotecas: Node.js]
+Frameworks e bibliotecas: Node.js
 
 Ferramentas: Git
 
